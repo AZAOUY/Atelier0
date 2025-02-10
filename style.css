@@ -1,0 +1,64 @@
+*{
+    font-family: arial, sans-serif;
+}
+.champ{
+    margin-left: 5%;
+}
+.champ input{
+    padding: 8px;
+    margin-top: 5px;
+    margin-left: 15%;
+    display: inline;
+    align-items: center;
+    bord
+    
+}
+.champ input[type="text"]{
+    margin-left: 17.5%;
+}
+.champx button{
+    margin-left: 50%;
+    margin-top: 20px;
+    padding: 10px 0px;
+    font-weight: bolder;
+    font-size: 16px;
+    color: white;
+    margin-bottom: 20px;
+    width: 10%;
+    background-color: black;
+
+}
+section{
+    margin: 10px;
+    padding: 20px;
+    border: solid white;
+    border-radius: 5px;
+    background-color: rgb(218, 219, 221);
+}
+header{
+    margin: 0px 10px;
+    padding: 20px;
+}
+img{
+    margin-bottom: 10px;
+    width: 20%;
+    height: auto;
+    margin-left: 470px;
+
+}
+.intro{
+    font-size: larger;
+    font-weight: bolder;
+    text-align: center;
+}
+/* Footer */
+.footer {
+    text-align: center;
+    margin: -10px 10px;
+    padding: 10px;
+    background-color: #004080; /* Bleu foncé */
+    color: #fff;
+    font-size: 14px;
+    border: solid white;
+    border-radius: 5px ;
+}
